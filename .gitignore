@@ -22,6 +22,6 @@
 hs_err_pid*
 
 #my
-*/.gradle
-*/build
-*/target
+**/.gradle
+**/build
+**/target
